@@ -64,6 +64,8 @@ void draw() {
     //println(nightmode);
   }
   image( picBackground, backgroundImageX, backgroundImageY, backgroundImageWidth, backgroundImageHeight );
+  image();
+  image();
 } //End draw
 //
 void keyPressed() {
